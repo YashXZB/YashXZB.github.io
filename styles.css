@@ -1,0 +1,15 @@
+img {
+    width: 300px;
+}
+
+.module {
+  cursor: url('https://orig00.deviantart.net/8cee/f/2013/083/1/8/the_backstreet_boys_561x450_by_claudiabsb25-d5z4c1t.png'), always;	
+}
+.info {
+  font-family: monospace;
+  position: absolute;
+  line-height: 20px;
+  font-size: 14px;
+  left: 20px;
+  top: 20px;
+}
